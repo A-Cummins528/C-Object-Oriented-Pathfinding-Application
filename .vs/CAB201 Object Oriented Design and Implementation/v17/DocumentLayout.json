@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\mapobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:mapobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\fence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:fence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:path.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|c:\\users\\adama\\desktop\\cab201\\cab201 object oriented design and implementation\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB4F6CD-4773-491A-852B-429D7ADB8158}|CAB201 Object Oriented Design and Implementation.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:08:57.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Path.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Path.cs",
+              "RelativeDocumentMoniker": "Path.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Path.cs",
+              "RelativeToolTip": "Path.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAiwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T00:27:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Camera.cs",
+              "RelativeDocumentMoniker": "Camera.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Camera.cs",
+              "RelativeToolTip": "Camera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:37:26.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Sensor.cs",
+              "RelativeDocumentMoniker": "Sensor.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Sensor.cs",
+              "RelativeToolTip": "Sensor.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T23:53:57.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fence.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Fence.cs",
+              "RelativeDocumentMoniker": "Fence.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Fence.cs",
+              "RelativeToolTip": "Fence.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:33:05.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Guard.cs",
+              "RelativeDocumentMoniker": "Guard.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Guard.cs",
+              "RelativeToolTip": "Guard.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:27:29.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapObject.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\MapObject.cs",
+              "RelativeDocumentMoniker": "MapObject.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\MapObject.cs",
+              "RelativeToolTip": "MapObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T05:01:42.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Map.cs",
+              "RelativeDocumentMoniker": "Map.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Map.cs",
+              "RelativeToolTip": "Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:24:34.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Utility.cs",
+              "RelativeDocumentMoniker": "Utility.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Utility.cs",
+              "RelativeToolTip": "Utility.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T09:39:31.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adama\\Desktop\\CAB201\\CAB201 Object Oriented Design and Implementation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:38:51.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

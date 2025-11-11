@@ -1,0 +1,14 @@
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\obj\Debug\net8.0\CAB201 Object Oriented Design and Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\obj\Debug\net8.0\CAB201 Object Oriented Design and Implementation.AssemblyInfoInputs.cache
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\obj\Debug\net8.0\CAB201 Object Oriented Design and Implementation.AssemblyInfo.cs
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\obj\Debug\net8.0\CAB201 Object Oriented Design and Implementation.csproj.CoreCompileInputs.cache
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\bin\Debug\net8.0\CAB201 Object Oriented Design and Implementation.exe
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\bin\Debug\net8.0\CAB201 Object Oriented Design and Implementation.deps.json
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\bin\Debug\net8.0\CAB201 Object Oriented Design and Implementation.runtimeconfig.json
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\bin\Debug\net8.0\CAB201 Object Oriented Design and Implementation.dll
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\bin\Debug\net8.0\CAB201 Object Oriented Design and Implementation.pdb
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\obj\Debug\net8.0\CAB201 Object Oriented Design and Implementation.dll
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\obj\Debug\net8.0\refint\CAB201 Object Oriented Design and Implementation.dll
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\obj\Debug\net8.0\CAB201 Object Oriented Design and Implementation.pdb
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\obj\Debug\net8.0\CAB201 Object Oriented Design and Implementation.genruntimeconfig.cache
+C:\Users\adama\Desktop\CAB201\CAB201 Object Oriented Design and Implementation\obj\Debug\net8.0\ref\CAB201 Object Oriented Design and Implementation.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CAB201 Object Oriented Design and Implementation/1.0.0": {
+        "runtime": {
+          "CAB201 Object Oriented Design and Implementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAB201 Object Oriented Design and Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
