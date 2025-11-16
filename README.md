@@ -97,7 +97,7 @@ Successfully added sensor obstacle.
 Enter command: add camera 7 7 north
 Successfully added camera obstacle.
 ```
-![AddObjects](/assets/screenshots/AddObjects/png)
+![AddObjects](/assets/screenshots/AddObjects.png)
 
 ### Checking Safety
 ```
@@ -131,7 +131,7 @@ Here is a map of obstacles in the selected region:
 .........
 .........
 ```
-![Display map]()/assets/screenshots/map.png)
+![Display map](/assets/screenshots/map.png)
 
 ## Technologies Used
 
