@@ -1,5 +1,5 @@
 ﻿# Threat-o-tron 9000 Obstacle Avoidance System
-
+![MainMenu](/assets/screenshots/MainMenu.png)
 A sophisticated pathfinding application built with C# and .NET 8.0 that calculates safe navigation routes through obstacle-laden environments using the A* pathfinding algorithm.
 
 ## Project Overview
@@ -97,6 +97,7 @@ Successfully added sensor obstacle.
 Enter command: add camera 7 7 north
 Successfully added camera obstacle.
 ```
+![AddObjects](/assets/screenshots/AddObjects/png)
 
 ### Checking Safety
 ```
@@ -106,7 +107,7 @@ North
 East
 West
 ```
-
+![CheckSafety](/assets/screenshots/Check.png)
 ### Finding Paths
 ```
 Enter command: path 3 5 7 1
@@ -116,10 +117,10 @@ Head east for 5 klicks.
 Head south for 3 klicks.
 Head west for 1 klick.
 ```
-
+![CheckPath](/assets/screenshots/path.png)
 ### Map Visualization
 ```
-Enter command: map 0 0 9 8
+Enter command: map 0 -5 9 8
 Here is a map of obstacles in the selected region:
 .........
 .........
@@ -130,7 +131,7 @@ Here is a map of obstacles in the selected region:
 .........
 .........
 ```
-
+![Display map]()/assets/screenshots/map.png)
 
 ## Technologies Used
 
